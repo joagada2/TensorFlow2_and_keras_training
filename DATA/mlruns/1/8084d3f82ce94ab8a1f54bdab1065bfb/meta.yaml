@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/TF_2_Notebooks_and_Data/DATA/mlruns/1/8084d3f82ce94ab8a1f54bdab1065bfb/artifacts
+end_time: 1672404372993
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8084d3f82ce94ab8a1f54bdab1065bfb
+run_name: Least Angle Regression
+run_uuid: 8084d3f82ce94ab8a1f54bdab1065bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672404372851
+status: 3
+tags: []
+user_id: HP 1O3O G2

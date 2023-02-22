@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/TF_2_Notebooks_and_Data/DATA/mlruns/1/51b0009a07534221a543cfa75f494b1a/artifacts
+end_time: 1672404369672
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 51b0009a07534221a543cfa75f494b1a
+run_name: Gradient Boosting Regressor
+run_uuid: 51b0009a07534221a543cfa75f494b1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672404369533
+status: 3
+tags: []
+user_id: HP 1O3O G2

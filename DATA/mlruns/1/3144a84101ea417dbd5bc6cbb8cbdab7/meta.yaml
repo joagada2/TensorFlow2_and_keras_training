@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/TF_2_Notebooks_and_Data/DATA/mlruns/1/3144a84101ea417dbd5bc6cbb8cbdab7/artifacts
+end_time: 1672404371061
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3144a84101ea417dbd5bc6cbb8cbdab7
+run_name: Linear Regression
+run_uuid: 3144a84101ea417dbd5bc6cbb8cbdab7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672404370921
+status: 3
+tags: []
+user_id: HP 1O3O G2

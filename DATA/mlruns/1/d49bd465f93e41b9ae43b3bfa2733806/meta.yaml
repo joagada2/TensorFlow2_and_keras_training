@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/TF_2_Notebooks_and_Data/DATA/mlruns/1/d49bd465f93e41b9ae43b3bfa2733806/artifacts
+end_time: 1672404372446
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d49bd465f93e41b9ae43b3bfa2733806
+run_name: Elastic Net
+run_uuid: d49bd465f93e41b9ae43b3bfa2733806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672404372311
+status: 3
+tags: []
+user_id: HP 1O3O G2

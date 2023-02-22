@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/TF_2_Notebooks_and_Data/DATA/mlruns/1/fec50a34b13342d682e5ce544e5a5907/artifacts
+end_time: 1672404372719
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: fec50a34b13342d682e5ce544e5a5907
+run_name: Lasso Regression
+run_uuid: fec50a34b13342d682e5ce544e5a5907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672404372579
+status: 3
+tags: []
+user_id: HP 1O3O G2

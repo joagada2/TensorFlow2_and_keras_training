@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/TF_2_Notebooks_and_Data/DATA/mlruns/1/9928b92ba95445c6919be265a0a97e23/artifacts
+end_time: 1672477804076
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9928b92ba95445c6919be265a0a97e23
+run_name: Passive Aggressive Regressor
+run_uuid: 9928b92ba95445c6919be265a0a97e23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672477803730
+status: 3
+tags: []
+user_id: HP 1O3O G2

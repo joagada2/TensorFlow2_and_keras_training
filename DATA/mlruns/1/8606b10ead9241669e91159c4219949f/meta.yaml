@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/TF_2_Notebooks_and_Data/DATA/mlruns/1/8606b10ead9241669e91159c4219949f/artifacts
+end_time: 1672477798924
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8606b10ead9241669e91159c4219949f
+run_name: Random Forest Regressor
+run_uuid: 8606b10ead9241669e91159c4219949f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672477798605
+status: 3
+tags: []
+user_id: HP 1O3O G2

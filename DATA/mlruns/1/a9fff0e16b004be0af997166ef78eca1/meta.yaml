@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/TF_2_Notebooks_and_Data/DATA/mlruns/1/a9fff0e16b004be0af997166ef78eca1/artifacts
+end_time: 1672404373265
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a9fff0e16b004be0af997166ef78eca1
+run_name: Dummy Regressor
+run_uuid: a9fff0e16b004be0af997166ef78eca1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672404373128
+status: 3
+tags: []
+user_id: HP 1O3O G2

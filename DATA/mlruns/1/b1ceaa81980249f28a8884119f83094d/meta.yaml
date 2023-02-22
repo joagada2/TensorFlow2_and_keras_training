@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/TF_2_Notebooks_and_Data/DATA/mlruns/1/b1ceaa81980249f28a8884119f83094d/artifacts
+end_time: 1672404369959
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: b1ceaa81980249f28a8884119f83094d
+run_name: K Neighbors Regressor
+run_uuid: b1ceaa81980249f28a8884119f83094d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672404369818
+status: 3
+tags: []
+user_id: HP 1O3O G2

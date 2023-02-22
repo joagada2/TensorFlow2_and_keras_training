@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/TF_2_Notebooks_and_Data/DATA/mlruns/1/cd536633bc644844a90dc5189fa79b6f/artifacts
+end_time: 1672477802505
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cd536633bc644844a90dc5189fa79b6f
+run_name: Decision Tree Regressor
+run_uuid: cd536633bc644844a90dc5189fa79b6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672477802209
+status: 3
+tags: []
+user_id: HP 1O3O G2

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/TF_2_Notebooks_and_Data/DATA/mlruns/1/6bfd68ecdc2344b6b0c57f24b2d868fd/artifacts
+end_time: 1672478072743
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 6bfd68ecdc2344b6b0c57f24b2d868fd
+run_name: Light Gradient Boosting Machine
+run_uuid: 6bfd68ecdc2344b6b0c57f24b2d868fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672478072162
+status: 3
+tags: []
+user_id: HP 1O3O G2

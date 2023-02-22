@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/TF_2_Notebooks_and_Data/DATA/mlruns/1/c23c19290d8a430ea2625838e376ffcb/artifacts
+end_time: 1672477798433
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: c23c19290d8a430ea2625838e376ffcb
+run_name: Extra Trees Regressor
+run_uuid: c23c19290d8a430ea2625838e376ffcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672477798119
+status: 3
+tags: []
+user_id: HP 1O3O G2

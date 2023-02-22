@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP%201O3O%20G2/TF_2_Notebooks_and_Data/DATA/mlruns/1/77dcff00a7f14fea929163543e378f69/artifacts
+end_time: 1672404371619
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 77dcff00a7f14fea929163543e378f69
+run_name: PowerTransformedTargetRegressor
+run_uuid: 77dcff00a7f14fea929163543e378f69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672404371479
+status: 3
+tags: []
+user_id: HP 1O3O G2
